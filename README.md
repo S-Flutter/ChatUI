@@ -1,7 +1,8 @@
 # chatapp
 
 A new Flutter application.
-https://lh3.googleusercontent.com/-XPfxIkXk5xQ/Xr-9qJdsvVI/AAAAAAAAAFU/ULgeKz2yKZIMWRPECj18uBM5RmtyRD9wwCK8BGAsYHg/s0/2020-05-16.jpg
+![first_screen](https://user-images.githubusercontent.com/9830376/82117329-cc7a3c80-978c-11ea-8aaf-08da38c5c33d.jpg)
+
 
 ## Getting Started
 
